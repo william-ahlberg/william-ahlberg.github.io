@@ -1,12 +1,10 @@
-
-
-
 :root {
-    --primary-color: #f7f7f7;
-    --secondary-color: #011627;
+    --primary-color: #011627;
+    --secondary-color: #f5e9e2;
 
-    --primary-text-color: #011627;
-    --secondary-text-color: #888888;}
+    --primary-text-color: #f7f7f7;
+    --secondary-text-color: #888888;
+}
 
 .dark-mode {
     --primary-color: #f7f7f7;
