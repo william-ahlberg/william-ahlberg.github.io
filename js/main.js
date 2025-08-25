@@ -3,4 +3,4 @@ function toggleDarkMode() {
     element.classList.toggle("dark-mode");
 }
 
-document.getElementById("dark-mode-toggle").addEventListener("click", toggleDarkMode);
+//document.getElementById("dark-mode-toggle").addEventListener("click", toggleDarkMode);
